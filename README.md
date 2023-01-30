@@ -28,31 +28,31 @@ da cotação baseados no dia 30/01/23;
 # 📸 Capturas do site:
 
 <div>
-    <img src="" width="700px" />
-    <p>Preview da aula 01</p>
+    <img src="https://user-images.githubusercontent.com/107145641/215615665-9553515e-4d53-402b-8b41-1004cfc62ce7.PNG" width="800px" />
+    <p>--------------------------------------------------------Preview da aula 01--------------------------------------------------------</p>
 </div>
 
 
 <div>
-    <img src="" width="700px" />
-    <p>Preview da aula 02</p>
+    <img src="" width="800px" />
+    <p>--------------------------------------------------------Preview da aula 02--------------------------------------------------------</p>
 </div>
 
 
 <div>
-    <img src="" width="700px" />
-    <p>Preview da aula 03</p>
+    <img src="" width="800px" />
+    <p>--------------------------------------------------------Preview da aula 03--------------------------------------------------------</p>
 </div>
 
 
 <div>
-    <img src="" width="700px" />
-    <p>Preview da aula 04</p>
+    <img src="" width="800px" />
+    <p>--------------------------------------------------------Preview da aula 04--------------------------------------------------------</p>
 </div>
 
 
 <div>
-    <img src="" width="700px" />
-    <p>Preview da aula 05</p>
+    <img src="" width="800px" />
+    <p>--------------------------------------------------------Preview da aula 05--------------------------------------------------------</p>
 </div>
 
