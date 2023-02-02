@@ -10,7 +10,11 @@ como dolar, euro e libra, onde o retorno é um alerta com o nome dado
 e a conversão do valor digitado sobre a moeda escolhida, com os valores
 da cotação baseados no dia 30/01/23;
 
-- Aula 02: em breve;
+- Aula 02: 
+Mentalista - um jogo em que um número aleatório é gerado e o/os
+participantes devem acertar o número. Para cada chute há uma dica
+se o número digitado é maior ou menor que o esperado e há um limite
+de 10 palpites;
 
 - Aula 03: em breve;
 
@@ -34,7 +38,7 @@ da cotação baseados no dia 30/01/23;
 
 
 <div>
-    <img src="" width="800px" />
+    <img src="https://user-images.githubusercontent.com/107145641/216338292-7dd0182f-4801-4046-a973-b650e207dc49.png" width="800px" />
     <p>--------------------------------------------------------Preview da aula 02--------------------------------------------------------</p>
 </div>
 
