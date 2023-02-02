@@ -28,5 +28,5 @@ btn.addEventListener("click", function(e) {
     
     brl = brl.toFixed(2);
 
-    alert('Olá '+ name+ ', o seu valor convertido é R$ ' + brl);
+    alert('Olá '+ name + ', o seu valor convertido é R$ ' + brl);
 });
