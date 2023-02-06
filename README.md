@@ -66,7 +66,7 @@ e derrotas não somam pontos);
 
 
 <div>
-    <img src="https://user-images.githubusercontent.com/107145641/217034325-9e707d41-2404-4e4a-9c26-17e37e9b6bda.png" width="800px" />
+    <img src="https://user-images.githubusercontent.com/107145641/217036423-6e40ea73-ffc8-471c-920e-92dcd678685f.PNG" width="800px" />
     <p>--------------------------------------------------------Preview da aula 05--------------------------------------------------------</p>
 </div>
 
