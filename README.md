@@ -16,11 +16,21 @@ participantes devem acertar o número. Para cada chute há uma dica
 se o número digitado é maior ou menor que o esperado e há um limite
 de 10 palpites;
 
-- Aula 03: em breve;
+- Aula 03:
+Aluraflix array - uma plataforma para adicionar o cartaz dos filmes
+que estão disponíveis no momento, por meio da utilização de uma lista
+de elementos;
 
-- Aula 04: em breve;
+- Aula 04:
+Aluraflix - uma plataforma para você indicar o link do cartaz dos filmes
+que mais gosta e essas imagens ficarão em amostra para que possa mostrar
+para outras pessoas o seu catálogo de filmes preferidos;
 
-- Aula 05: em breve;
+- Aula 05:
+Tabela de pontos - essa aplicação é uma tabela em que os jogadores colocam
+seus nomes e podem clicar nos botões de vitória, derrota ou empate para poderem
+guardar as informações de suas pontuações (cada vitória somam 3 pts, empate soma 1pt
+e derrotas não somam pontos);
 
 # 🛠️ Tecnologias utilizadas:
 - HTML
@@ -44,19 +54,19 @@ de 10 palpites;
 
 
 <div>
-    <img src="" width="800px" />
+    <img src="https://user-images.githubusercontent.com/107145641/217034611-50d87018-3d55-4446-a55a-1b731128de7d.PNG" width="800px" />
     <p>--------------------------------------------------------Preview da aula 03--------------------------------------------------------</p>
 </div>
 
 
 <div>
-    <img src="" width="800px" />
+    <img src="https://user-images.githubusercontent.com/107145641/217034479-5274f0dd-27fd-4bbf-9eed-ea408824a725.PNG" width="800px" />
     <p>--------------------------------------------------------Preview da aula 04--------------------------------------------------------</p>
 </div>
 
 
 <div>
-    <img src="" width="800px" />
+    <img src="https://user-images.githubusercontent.com/107145641/217034325-9e707d41-2404-4e4a-9c26-17e37e9b6bda.png" width="800px" />
     <p>--------------------------------------------------------Preview da aula 05--------------------------------------------------------</p>
 </div>
 
